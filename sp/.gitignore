@@ -1,0 +1,9 @@
+_ReSharper.*
+
+.vs
+
+*.pdb
+*.vpc.sentinel
+
+games_vanishing.VC.db
+games_vanishing.VC.VC.opendb
